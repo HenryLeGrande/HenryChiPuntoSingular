@@ -1,4 +1,4 @@
-Nombre: Henry David Chi Azcorra
+Nombre: Henry David Chi Azcorra.
 Correo: 1620270@uqroo.mx
 
 Descripcion del programa: 
